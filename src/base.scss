@@ -1,0 +1,20 @@
+$color-primary: #ff2d00;
+$color-black: #000000;
+
+*,
+*::before,
+*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  box-sizing: inherit;
+  font-family: "Arial", sans-serif;
+  font-size: 3rem;
+}

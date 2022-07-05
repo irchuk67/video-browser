@@ -1,4 +1,4 @@
-.container {
+.container{
   display: grid;
   grid-template-columns: minmax(0, auto) 1fr;
   grid-template-rows: min-content 1fr;
@@ -7,5 +7,3 @@
   margin: 3rem auto;
   justify-items: center;
 }
-
-/*# sourceMappingURL=App.css.map */

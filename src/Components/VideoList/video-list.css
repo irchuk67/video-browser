@@ -1,0 +1,9 @@
+.video-list {
+  margin: 3rem 5rem;
+  grid-column: 2/-1;
+  grid-row: 2/3;
+  display: grid;
+  grid-row-gap: 2rem;
+}
+
+/*# sourceMappingURL=video-list.css.map */

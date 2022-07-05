@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: inherit;
+  font-family: "Berlin Sans FB", sans-serif;
+  font-size: 3rem;
+}
+
+/*# sourceMappingURL=base.css.map */
